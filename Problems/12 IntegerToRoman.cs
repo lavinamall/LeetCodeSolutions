@@ -33,7 +33,7 @@ public class IntegerToRoman
         return res;
     }
 
-    public void Test_IntegerToRoman()
+    public void Test()
     {
         System.Console.WriteLine($"{IntToRoman_1(1)}");
         System.Console.WriteLine($"{IntToRoman_2(56)}");

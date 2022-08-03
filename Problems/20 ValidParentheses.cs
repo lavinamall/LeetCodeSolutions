@@ -26,7 +26,7 @@ public class ValidParentheses
         return stack.Count > 0 ? false : true;
     }
     
-    public void Test_ValidParentheses()
+    public void Test()
     {
         string s = "";
         
